@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Student at Univsrsity of Pittsburgh"
   location         : "Pittsburgh, PA"
-  employer         :  "Univsrsity of Pittsburgh"
+#  employer         :  "Univsrsity of Pittsburgh"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=td4jffcAAAAJ&hl=en"
   email            : "mayangluon@pitt.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YangPhy"
+  github           : "YangPhy"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :# "replacethistwitterhandle"
+  #twitter          :# "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
