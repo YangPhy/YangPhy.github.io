@@ -1,19 +1,18 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Presentations"
+permalink: /presentations/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=td4jffcAAAAJ&hl=en) or [inSPIRE](https://inspirehep.net/authors/1514492). 
+## Seminar and colloquium 
 
-## Publications in refereed journals
-1. *Precision Test of the Muon-Higgs Coupling at a High-energy Muon Collider*  
-T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., submitted, 2108.05362 (2021)
-2. *Vector Boson Scattering Processes: Status and Prospects*  
-D. Buarque et al., 2106.01393 (2021)
-3. *Quark and Gluon Contents of a Lepton at High Energies*  
-T. Han, Y. Ma and K. Xie, 2103.09844 (2021)
+1. *Parton contents of a lepton at high energies*  
+(Remote) Particle Theory Seminar, Carleton University, May 2021
+2. *The partonic picture at high-energy lepton colliders*  
+(Remote) SLAC EPP Theory Seminar, SLAC, April 2021
+3. *The partonic picture at high-energy lepton colliders*  
+(Remote) Particle Theory Seminar, Shandong University, April 2021
 4. *High energy leptonic collisions and electroweak parton distribution functions*  
 T. Han, Y. Ma and K. Xie,  Phys. Rev. D 103 (2021) L031301 [2007.14300] (2020)
 5. *Inclusive productions of Υ(1S, 2S, 3S) and χb(1P, 2P, 3P ) via the Higgs boson decay*  
@@ -51,7 +50,7 @@ Z. Sun, X.-G. Wu, G. Chen, Y. Ma, H.-H. Ma and H.-Y. Bi, Phys. Rev. D 89 (2014) 
 H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma and T. Zhong, Nucl. Phys. B 884 (2014) 172 [1309.5723].
 
 
-[^_^]:## Other publications
+[^_^]:## Conference talks
 
 
 {% include base_path %}
