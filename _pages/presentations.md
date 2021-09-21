@@ -30,23 +30,23 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 1. *Higgs boson decay to $J/\psi$ via $c$-quark fragmentation*  
 (Scheduled) Parallel talk at Higgs 2021 Conference, Stony Brook University, October 2021
 2. *The partonic picture at high-energy lepton colliders*  
-(Remote) Parallel talk at SUSY 2021, Shanghai, August 2021
+(Remote) Parallel talk at SUSY 2021, Shanghai, August 2021 ([Link](https://indico.cern.ch/event/875077/contributions/4485459/))
 3. *QCD jet production at a high energy muon collider*  
-(Remote)  Parallel talk at EPS-HEP 2021, DESY, July 2021
+(Remote)  Parallel talk at EPS-HEP 2021, DESY, July 2021 ([Link](https://indico.desy.de/event/28202/contributions/105559/))
 4. *Quark and gluon contents of a lepton at high energies*  
-(Remote) Parallel talk at the DPF meeting, Florida State University, July 2021
+(Remote) Parallel talk at the DPF meeting, Florida State University, July 2021 ([Link](https://indico.cern.ch/event/1034469/contributions/4432688/))
 5. *Quark and gluon contents of a lepton at high energies*  
-(Remote) Parallel talk at Pheno 2021, University of Pittsburgh, May 2021
+(Remote) Parallel talk at Pheno 2021, University of Pittsburgh, May 2021 ([Link](https://indico.cern.ch/event/982783/contributions/4364720/))
 6. *The partonic picture at high-energy lepton colliders*  
-(Remote) Parallel talk at PPC 2021, University of Oklahoma, May 2021
+(Remote) Parallel talk at PPC 2021, University of Oklahoma, May 2021 ([Link](https://indico.cern.ch/event/822029/contributions/4305741/))
 7. *Electroweak parton distribution functions at a high-energy muon collider*  
-(Remote) Parallel talk at APS April Meeting, Muon Collider Symposium IV, April 2021
+(Remote) Parallel talk at APS April Meeting, Muon Collider Symposium IV, April 2021 ([Link](https://meetings.aps.org/Meeting/APR21/Session/Y07.7))
 8. *QCD jet production at a high energy muon collider*  
-(Remote) Talk at Muon Collider Physics and Simulation Meeting, CERN, March 2021
+(Remote) Talk at Muon Collider Physics and Simulation Meeting, CERN, March 2021 ([Link](https://indico.cern.ch/event/1019298/))
 9. *The electroweak parton distribution functions - Necessity and application*  
 (Remote) Student talk at Theoretical Advanced Study Institute (TASI 2020), June 2020
 1. *The electroweak parton distribution functions*  
-(Remote) Parallel talk at Pheno 2020, University of Pittsburgh, May 2020
+(Remote) Parallel talk at Pheno 2020, University of Pittsburgh, May 2020 ([Link](https://indico.cern.ch/event/858682/contributions/3837172/))
 1. *QCD Scale-setting problem in Future Chinese Collider physics*  
 Parallel talk at CEPC-SppC Study Group Meeting, IHEP, Beiing, September 2015
 
