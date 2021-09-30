@@ -16,7 +16,7 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 
 ### HEP Skills 
 * Programming Language: C/C++, Fortran, Python, Shell script
-* Handy Programs: Mathematica, Matlab, L A TEX, Excel, Powerpoint, Linux (OS)
+* Handy Programs: Mathematica, Matlab, LATEX, Excel, Powerpoint, Linux (OS)
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
