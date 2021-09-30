@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Seminar and colloquium 
+1. *Multi-boson production and the muon Yukawa coupling*  
+PITT PACC Group Seminar, University of Pittsburgh, September 2021
 1. *Parton contents of a lepton at high energies*  
 (Remote) Particle Theory Seminar, Carleton University, May 2021
 2. *The partonic picture at high-energy lepton colliders*  
