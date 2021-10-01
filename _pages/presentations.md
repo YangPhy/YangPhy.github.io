@@ -50,7 +50,7 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 1. *The electroweak parton distribution functions*  
 (Remote) Parallel talk at Pheno 2020, University of Pittsburgh, May 2020 ([Link](https://indico.cern.ch/event/858682/contributions/3837172/))
 1. *QCD Scale-setting problem in Future Chinese Collider physics*  
-Parallel talk at CEPC-SppC Study Group Meeting, IHEP, Beiing, September 2015
+Parallel talk at CEPC-SppC Study Group Meeting, IHEP, Beijing, September 2015
 
 {% include base_path %}
 
