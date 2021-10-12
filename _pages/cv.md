@@ -69,10 +69,8 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
 
 ### Mentoring Experience
-* Department of Physics & Astronomy Graduate Student Mentor, Aug. 2021 - present__
-Mentoring three first year graduate student
-* Assist to guide one visiting graduate student, Dec. 2019 - Dec. 2020__
-*(publication in prep.)*
+* Department of Physics & Astronomy Graduate Student Mentor, Aug. 2021 - present__Mentoring three first year graduate student
+* Assist to guide one visiting graduate student, Dec. 2019 - Dec. 2020__*(publication in prep.)*
 * Assist to guide one visiting undergraduate student, Jun. 2019 - Aug. 2019
 
 
