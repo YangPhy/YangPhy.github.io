@@ -53,8 +53,30 @@ Department of Physics & Astronomy, University of Pittsburgh
 * European Physical Journal C (EPJC) x 1
 
 ### Teaching Experience
-* Physics 0212/0219 (General physics lab): 6 semesters
-* Physics 175 (General Physics 2): 2 semesters
+#### Teaching Assistant at the University of Pittsburgh
+* PHYS 0219 - *Basic Laboratory Physics for Science and Engineering*__
+Fall 2016, Spring 2017, and Fall 2018
+* PHYS 0212 - *Introduction to Laboratory Physics*__
+ Fall 2017, Spring 2018, and Summer 2018
+* PHYS 0110 - *Introduction to Physics 1*, Summer 2018__
+Covers Mechanics, Heat and Thermodynamics, and Waves
+* PHYS 0111 - *Introduction to Physics 2*, Summer 2017__
+Covers Thermodynamics, Electromagnetism, Optics, Special Relativity, and Quantum Physics
+* PHYS 0175 - *Basic Physics, Science and Engineering 2*, Spring 2019 and Summer 2021__
+Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
+#### Teaching Assistant at Chongqing University
+* College Physics I - *Classical Mechanics and Electromagnetism*, Spring 2014
+* College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
+
+### Mentoring Experience
+* Department of Physics & Astronomy Graduate Student Mentor, Aug. 2021 - present__
+Mentoring three first year graduate student
+* Assist to guide one visiting graduate student, Dec. 2019 - Dec. 2020__
+*(publication in prep.)*
+* Assist to guide one visiting undergraduate student, Jun. 2019 - Aug. 2019
+
+
+
 
 [^_^]:Service and leadership
 [^_^]:======
