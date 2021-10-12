@@ -54,7 +54,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 
 ### Teaching Experience
 
-#### Teaching Assistant at the University of Pittsburgh
+#### Graduate Teaching Assistant at the University of Pittsburgh
 * PHYS 0219 - *Basic Laboratory Physics for Science and Engineering*  
 Fall 2016, Spring 2017, and Fall 2018
 * PHYS 0212 - *Introduction to Laboratory Physics*  
@@ -66,7 +66,7 @@ Covers Thermodynamics, Electromagnetism, Optics, Special Relativity, and Quantum
 * PHYS 0175 - *Basic Physics, Science and Engineering 2*, Spring 2019 and Summer 2021  
 Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 
-#### Teaching Assistant at Chongqing University
+#### Graduate Teaching Assistant at Chongqing University
 * College Physics I - *Classical Mechanics and Electromagnetism*, Spring 2014
 * College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
 
