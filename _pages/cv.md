@@ -12,9 +12,9 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 
 ### Professional Preparation
 * Ph.D. in Physics, University of Pittsburgh, expected Apr. 2022
-* M.S. in Physics, Chongiqng University, Jun. 2016
+* M.S. in Physics, Chongqing University, Jun. 2016
 
-### HEP Skills 
+### Skills 
 * Programming Language: C/C++, Fortran, Python, Shell script
 * Handy Programs: Mathematica, Matlab, LATEX, Excel, Powerpoint, Linux (OS)
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
