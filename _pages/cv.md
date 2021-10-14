@@ -27,7 +27,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 * Graduate Teaching Assistant, Sept. 2016 - Jan. 2020  
 Department of Physics & Astronomy, University of Pittsburgh
 
-### Awards and Hornors
+### Awards and Honors
 * Thomas-Lain Scholarship, Apr. 2021  
 Department of Physics & Astronomy, University of Pittsburgh
 * FGSA Award for Excellence in Graduate Research, Feb. 2021  
