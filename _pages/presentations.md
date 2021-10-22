@@ -29,8 +29,10 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference talks
+1. *Electroweak parton distributions and fragmentations for high-energy lepton colliders*  
+(Remote) Snowmass EF04 Topical Group Community Meeting, October 2021 ([Link](https://indico.fnal.gov/event/50481/))
 1. *Higgs boson decay to $J/\psi$ via $c$-quark fragmentation*  
-(Scheduled) Parallel talk at Higgs 2021 Conference, Stony Brook University, October 2021
+(Remote) Parallel talk at Higgs 2021 Conference, Stony Brook University, October 2021 ([Link](https://indico.cern.ch/event/1030068/contributions/4512705/))
 2. *The partonic picture at high-energy lepton colliders*  
 (Remote) Parallel talk at SUSY 2021, Shanghai, August 2021 ([Link](https://indico.cern.ch/event/875077/contributions/4485459/))
 3. *QCD jet production at a high energy muon collider*  
