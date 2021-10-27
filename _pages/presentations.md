@@ -5,7 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Seminar and colloquium 
+## Seminar and colloquium
+1. *Multi-boson production and the muon Yukawa coupling*  
+(Remote) HEP Journal Club, University of Utah, October 2021
 1. *Multi-boson production and the muon Yukawa coupling*  
 PITT PACC Group Seminar, University of Pittsburgh, September 2021
 1. *Parton contents of a lepton at high energies*  
