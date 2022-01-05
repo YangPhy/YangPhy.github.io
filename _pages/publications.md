@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Publications in refereed journals
 1. *Precision Test of the Muon-Higgs Coupling at a High-energy Muon Collider*  
-T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., submitted, [2108.05362](https://arxiv.org/abs/2108.05362) (2021)
+T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., [JHEP 12 (2021) 162](https://doi.org/10.1007/JHEP12(2021)162), [2108.05362](https://arxiv.org/abs/2108.05362) (2021)
 2. *Vector Boson Scattering Processes: Status and Prospects*  
 D. Buarque et al., [2106.01393](https://arxiv.org/abs/2106.01393) (2021)
 3. *Quark and Gluon Contents of a Lepton at High Energies*  
