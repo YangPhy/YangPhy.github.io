@@ -15,7 +15,7 @@ T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., [JHEP 12 (202
 2. *Vector Boson Scattering Processes: Status and Prospects*  
 D. Buarque et al., [2106.01393](https://arxiv.org/abs/2106.01393) (2021)
 3. *Quark and Gluon Contents of a Lepton at High Energies*  
-T. Han, Y. Ma and K. Xie, [2103.09844](https://arxiv.org/abs/2103.09844) (2021)
+T. Han, Y. Ma and K. Xie, [JHEP 02 (2022) 154](https://doi.org/10.1007/JHEP02(2022)154), [2103.09844](https://arxiv.org/abs/2103.09844) (2021)
 4. *High energy leptonic collisions and electroweak parton distribution functions*  
 T. Han, Y. Ma and K. Xie,  [Phys. Rev. D 103 (2021) L031301](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.L031301), [2007.14300](https://arxiv.org/abs/2007.14300) (2020)
 5. *Inclusive productions of $\Upsilon(1S,2S,3S)$ and $\chi_b(1P,2P,3P)$ via the Higgs boson decay*  
