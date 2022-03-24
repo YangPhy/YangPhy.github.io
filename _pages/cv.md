@@ -20,7 +20,9 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Arts & Sciences Pre-Doctoral Fellow, Sept. 2020 - Present  
+* Graduate Research Assistant, Jan. 2022 - Present  
+Department of Physics & Astronomy, University of Pittsburgh
+* Arts & Sciences Pre-Doctoral Fellow, Sept. 2020 - Dec.2021  
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
 * Graduate Research Assistant, Jan. 2020 - Aug. 2020  
 Department of Physics & Astronomy, University of Pittsburgh
@@ -43,8 +45,8 @@ Department of Physics & Astronomy, University of Pittsburgh
 * American Association for the Advancement of Science (AAAS) member, since Sept. 2021
 
 ### Summer Schools Attended
-* SSI 2020, SLAC, Aug. 2021
-* HCPSS 2021, Fermilab, Aug. 2020
+* SSI 2021, SLAC, Aug. 2021
+* HCPSS 202, Fermilab, Aug. 2020
 * TASI 2020, University of Colorado Boulder, June 2020
 * CTEQ 2019, University of Pittsburgh, July 2019
 * CTEQ 2017, University of Pittsburgh, July 2017
