@@ -13,7 +13,7 @@ T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [2202.08273](https://arxiv.org/abs
 1. *Precision Test of the Muon-Higgs Coupling at a High-energy Muon Collider*  
 T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., [JHEP 12 (2021) 162](https://doi.org/10.1007/JHEP12(2021)162), [2108.05362](https://arxiv.org/abs/2108.05362) (2021)
 2. *Vector Boson Scattering Processes: Status and Prospects*  
-D. Buarque et al., [2106.01393](https://arxiv.org/abs/2106.01393) (2021)
+D. Buarque et al., [Rev. Phys. 8 (2022)](https://doi.org/10.1016/j.revip.2022.100071) [2106.01393](https://arxiv.org/abs/2106.01393) (2021)
 3. *Quark and Gluon Contents of a Lepton at High Energies*  
 T. Han, Y. Ma and K. Xie, [JHEP 02 (2022) 154](https://doi.org/10.1007/JHEP02(2022)154), [2103.09844](https://arxiv.org/abs/2103.09844) (2021)
 4. *High energy leptonic collisions and electroweak parton distribution functions*  
@@ -50,8 +50,17 @@ Z. Sun, X.-G. Wu, G. Chen, Y. Ma, H.-H. Ma and H.-Y. Bi, [Phys. Rev. D 89 (2014)
 H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma and T. Zhong, [Nucl. Phys. B 884 (2014) 172](https://doi.org/10.1016/j.nuclphysb.2014.04.021), [1309.5723](https://arxiv.org/abs/1309.5723) (2013)
 
 
-[^_^]:## Other publications
-
+## Other publications
+1. *Electroweak fragmentation at high energies: A Snowmass White Paper*  
+T. Han, Y. Ma and K. Xie, Contribution to 2022 Snowmass Summer Study, [2203.11129](https://arxiv.org/abs/2203.11129) (2022)
+1. *Event Generators for High-Energy Physics Experiments*  
+J. M. Campbell et al., Contribution to 2022 Snowmass Summer Study, [2203.11110](https://arxiv.org/abs/2203.11110) (2022)
+1. *The International Linear Collider: Report to Snowmass 2021*  
+I. Adachi et al., Contribution to 2022 Snowmass Summer Study, [2203.07622](https://arxiv.org/abs/2203.07622) (2022)
+1. *The physics case of a 3 TeV muon collider stage*  
+J. De Blas et al., Contribution to 2022 Snowmass Summer Study, [2203.07261](https://arxiv.org/abs/2203.07261) (2022)
+1. *Muon Collider Physics Summary*  
+C. Aimè et al., Contribution to 2022 Snowmass Summer Study, [2203.07256](https://arxiv.org/abs/2203.07256) (2022)
 
 {% include base_path %}
 

@@ -11,7 +11,7 @@ redirect_from:
 A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 
 ### Professional Preparation
-* Ph.D. in Physics, University of Pittsburgh, expected Apr. 2022
+* Ph.D. in Physics, University of Pittsburgh, Apr. 2022
 * M.S. in Physics, Chongqing University, June 2016
 
 ### Skills 
@@ -20,7 +20,7 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Graduate Research Assistant, Jan. 2022 - Present  
+* Graduate Research Fellow, Jan. 2022 - Present  
 Department of Physics & Astronomy, University of Pittsburgh
 * Arts & Sciences Pre-Doctoral Fellow, Sept. 2020 - Dec.2021  
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
@@ -75,8 +75,8 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 ### Mentoring Experience
 * Department of Physics & Astronomy Graduate Student Mentor, Aug. 2021 - present  
 Mentoring three first year graduate student
-* Assist to guide one visiting graduate student, Dec. 2019 - Dec. 2020  
-*(publication in prep.)*
+* Assist to guide one visiting graduate student (*Xiaoze Tan*), Dec. 2019 - Dec. 2020  
+*([2202.08273](https://arxiv.org/abs/2202.08273), submitted to JHEP)*
 * Assist to guide one visiting undergraduate student, June 2019 - Aug. 2019
 
 

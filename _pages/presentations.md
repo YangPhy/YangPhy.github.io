@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Seminar and colloquium
+1. *Higgs decay to charmonia and the charm quark Yukawa*  
+PITT PACC Group Seminar, University of Pittsburgh, March 2022
 1. *Multi-boson production and the muon Yukawa coupling*  
 (Remote) HEP Journal Club, University of Utah, October 2021
 1. *Multi-boson production and the muon Yukawa coupling*  
@@ -32,6 +34,8 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 ## Conference talks
 1. *Multi-boson production and the muon Yukawa coupling*  
+Contributed talk at APS April Meeting 2022, New York, April 2022 ([Link](https://meetings.aps.org/Meeting/APR22/Session/W02.4))
+1. *Multi-boson production and the muon Yukawa coupling*  
 PIKIMO 11, University of Pittsburgh, December 2021 ([Link](https://indico.cern.ch/event/1091676/contributions/4637673/))
 1. *Electroweak parton distributions and fragmentations for high-energy lepton colliders*  
 (Remote) Snowmass EF04 Topical Group Community Meeting, October 2021 ([Link](https://indico.fnal.gov/event/50481/))
@@ -48,7 +52,7 @@ PIKIMO 11, University of Pittsburgh, December 2021 ([Link](https://indico.cern.c
 6. *The partonic picture at high-energy lepton colliders*  
 (Remote) Parallel talk at PPC 2021, University of Oklahoma, May 2021 ([Link](https://indico.cern.ch/event/822029/contributions/4305741/))
 7. *Electroweak parton distribution functions at a high-energy muon collider*  
-(Remote) Parallel talk at APS April Meeting, Muon Collider Symposium IV, April 2021 ([Link](https://meetings.aps.org/Meeting/APR21/Session/Y07.7))
+(Remote) Contributed talk at APS April Meeting 2021, Muon Collider Symposium IV, April 2021 ([Link](https://meetings.aps.org/Meeting/APR21/Session/Y07.7))
 8. *QCD jet production at a high energy muon collider*  
 (Remote) Talk at Muon Collider Physics and Simulation Meeting, CERN, March 2021 ([Link](https://indico.cern.ch/event/1019298/))
 9. *The electroweak parton distribution functions - Necessity and application*  
