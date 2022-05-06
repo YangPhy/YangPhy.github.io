@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Seminar and colloquium
+1. *Higgs decay to $J/psi$ via the $c$-quark fragmentation*  
+(Remote) Nuclear Physics Seminar, UCLA, May 2022
 1. *Higgs decay to charmonia and the charm quark Yukawa*  
 PITT PACC Group Seminar, University of Pittsburgh, March 2022
 1. *Multi-boson production and the muon Yukawa coupling*  
