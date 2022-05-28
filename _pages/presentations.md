@@ -35,7 +35,7 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference talks
-1. *Higgs decay to $J/psi$ via the $c$-quark fragmentation*
+1. *Higgs decay to $J/psi$ via the $c$-quark fragmentation*  
 Parallel talk at Pheno 2022, University of Pittsburgh, May 2022 ([Link](https://indico.cern.ch/event/1089132/contributions/4853268/))
 1. *Multi-boson production and the muon Yukawa coupling*  
 Contributed talk at APS April Meeting 2022, New York, April 2022 ([Link](https://meetings.aps.org/Meeting/APR22/Session/W02.4))
