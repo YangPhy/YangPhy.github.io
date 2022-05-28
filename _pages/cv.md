@@ -81,9 +81,9 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
 
 ### Mentoring Experience
-* Department of Physics & Astronomy Graduate Student Mentor, August 2021 - present
+* Department of Physics & Astronomy Graduate Student Mentor, August 2021 - present  
 Mentoring three first year graduate student
-* Assist to guide one visiting graduate student (*Xiaoze Tan*), December 2019 - December 2020
+* Assist to guide one visiting graduate student (*Xiaoze Tan*), December 2019 - December 2020  
 *([2202.08273](https://arxiv.org/abs/2202.08273), submitted to JHEP)*
 * Assist to guide one visiting undergraduate student, June 2019 - August 2019
 
