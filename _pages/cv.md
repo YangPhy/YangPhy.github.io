@@ -20,27 +20,27 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Graduate Teaching Fellow, May 2022 - Present
+* Graduate Teaching Fellow, May 2022 - Present  
 Department of Physics & Astronomy, University of Pittsburgh
-* Graduate Research Fellow, January 2022 - Present
+* Graduate Research Fellow, January 2022 - Present  
 Department of Physics & Astronomy, University of Pittsburgh
-* Arts & Sciences Pre-Doctoral Fellow, September 2020 - December 2021
+* Arts & Sciences Pre-Doctoral Fellow, September 2020 - December 2021  
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
-* Graduate Research Assistant, January 2020 - August 2020
+* Graduate Research Assistant, January 2020 - August 2020  
 Department of Physics & Astronomy, University of Pittsburgh
-* Graduate Teaching Assistant, September 2016 - January 2020
+* Graduate Teaching Assistant, September 2016 - January 2020  
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Awards and Honors
-* FGSA Award for Excellence in Graduate Research, April 2022
+* FGSA Award for Excellence in Graduate Research, April 2022  
 APS Division of Particles and Fields (DPF)
-* Thomas-Lain Scholarship, April 2021
+* Thomas-Lain Scholarship, April 2021  
 Department of Physics & Astronomy, University of Pittsburgh
-* FGSA Award for Excellence in Graduate Research, February 2021
+* FGSA Award for Excellence in Graduate Research, February 2021  
 American Physical Society
-* Arts & Sciences Graduate Fellowship, September 2020
+* Arts & Sciences Graduate Fellowship, September 2020  
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
-* Pitt Physics and Astronomy China Initiative (PACI) Scholarship, September 2016
+* Pitt Physics and Astronomy China Initiative (PACI) Scholarship, September 2016  
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Membership in Professional Societies
