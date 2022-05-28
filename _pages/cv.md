@@ -61,7 +61,8 @@ Department of Physics & Astronomy, University of Pittsburgh
 ### Teaching Experience
 
 #### Graduate Teaching Fellow (instructor) at the University of Pittsburgh
-* PHYS 0174 - *asic Physics, Science and Engineering 1*, Summer 2022
+* PHYS 0174 - *Basic Physics, Science and Engineering 1*, Summer 2022  
+Covers Mechanics and waves
 
 #### Graduate Teaching Assistant at the University of Pittsburgh
 * PHYS 0219 - *Basic Laboratory Physics for Science and Engineering*  
