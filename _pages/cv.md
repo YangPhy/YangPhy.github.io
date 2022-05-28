@@ -11,7 +11,7 @@ redirect_from:
 A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 
 ### Professional Preparation
-* Ph.D. in Physics, University of Pittsburgh, Apr. 2022
+* Ph.D. in Physics, University of Pittsburgh, August 2022
 * M.S. in Physics, Chongqing University, June 2016
 
 ### Skills 
@@ -20,33 +20,37 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Graduate Research Fellow, Jan. 2022 - Present  
+* Graduate Teaching Fellow, May 2022 - Present
 Department of Physics & Astronomy, University of Pittsburgh
-* Arts & Sciences Pre-Doctoral Fellow, Sept. 2020 - Dec.2021  
+* Graduate Research Fellow, January 2022 - Present
+Department of Physics & Astronomy, University of Pittsburgh
+* Arts & Sciences Pre-Doctoral Fellow, September 2020 - Dec.2021
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
-* Graduate Research Assistant, Jan. 2020 - Aug. 2020  
+* Graduate Research Assistant, January 2020 - August 2020
 Department of Physics & Astronomy, University of Pittsburgh
-* Graduate Teaching Assistant, Sept. 2016 - Jan. 2020  
+* Graduate Teaching Assistant, September 2016 - January 2020
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Awards and Honors
-* Thomas-Lain Scholarship, Apr. 2021  
+* FGSA Award for Excellence in Graduate Research, April 2022
+APS Division of Particles and Fields (DPF)
+* Thomas-Lain Scholarship, April 2021
 Department of Physics & Astronomy, University of Pittsburgh
-* FGSA Award for Excellence in Graduate Research, Feb. 2021  
+* FGSA Award for Excellence in Graduate Research, February 2021
 American Physical Society
-* Arts & Sciences Graduate Fellowship, Sept. 2020  
+* Arts & Sciences Graduate Fellowship, September 2020
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
-* Pitt Physics and Astronomy China Initiative (PACI) Scholarship, Sept. 2016  
+* Pitt Physics and Astronomy China Initiative (PACI) Scholarship, September 2016
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Membership in Professional Societies
-* American Physical Society (APS) member, since Mar. 2021
-* Organization of Chinese Physics & Astrophysics (OCPA) member, since Sept. 2021
-* American Association for the Advancement of Science (AAAS) member, since Sept. 2021
+* American Physical Society (APS) member, since March 2021
+* Organization of Chinese Physics & Astrophysics (OCPA) member, since September 2021
+* American Association for the Advancement of Science (AAAS) member, since September 2021
 
 ### Summer Schools Attended
-* SSI 2021, SLAC, Aug. 2021
-* HCPSS 202, Fermilab, Aug. 2020
+* SSI 2021, SLAC, August 2021
+* HCPSS 202, Fermilab, August 2020
 * TASI 2020, University of Colorado Boulder, June 2020
 * CTEQ 2019, University of Pittsburgh, July 2019
 * CTEQ 2017, University of Pittsburgh, July 2017
@@ -55,6 +59,9 @@ Department of Physics & Astronomy, University of Pittsburgh
 * European Physical Journal C (EPJC) x 1
 
 ### Teaching Experience
+
+#### Graduate Teaching Fellow (instructor) at the University of Pittsburgh
+* PHYS 0174 - *asic Physics, Science and Engineering 1*, Summer 2022
 
 #### Graduate Teaching Assistant at the University of Pittsburgh
 * PHYS 0219 - *Basic Laboratory Physics for Science and Engineering*  
@@ -73,11 +80,11 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
 
 ### Mentoring Experience
-* Department of Physics & Astronomy Graduate Student Mentor, Aug. 2021 - present  
+* Department of Physics & Astronomy Graduate Student Mentor, August 2021 - present
 Mentoring three first year graduate student
-* Assist to guide one visiting graduate student (*Xiaoze Tan*), Dec. 2019 - Dec. 2020  
+* Assist to guide one visiting graduate student (*Xiaoze Tan*), December 2019 - December 2020
 *([2202.08273](https://arxiv.org/abs/2202.08273), submitted to JHEP)*
-* Assist to guide one visiting undergraduate student, June 2019 - Aug. 2019
+* Assist to guide one visiting undergraduate student, June 2019 - August 2019
 
 
 
