@@ -20,7 +20,9 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Graduate Teaching Fellow, May 2022 - Present  
+* Postdoctoral Researcher, (Expected) September 2022 - September 2024
+INFN Sezione di Bologna, Italy
+* Graduate Teaching Fellow, May 2022 - July 2022
 Department of Physics & Astronomy, University of Pittsburgh
 * Graduate Research Fellow, January 2022 - Present  
 Department of Physics & Astronomy, University of Pittsburgh
@@ -32,7 +34,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Awards and Honors
-* FGSA Award for Excellence in Graduate Research, April 2022  
+* DPF Student Travel Award, April 2022
 APS Division of Particles and Fields (DPF)
 * Thomas-Lain Scholarship, April 2021  
 Department of Physics & Astronomy, University of Pittsburgh
@@ -49,6 +51,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 * American Association for the Advancement of Science (AAAS) member, since September 2021
 
 ### Summer Schools Attended
+* CTEQ 2022, University of Pittsburgh, July 2022
 * SSI 2021, SLAC, August 2021
 * HCPSS 202, Fermilab, August 2020
 * TASI 2020, University of Colorado Boulder, June 2020
@@ -56,7 +59,8 @@ Department of Physics & Astronomy, University of Pittsburgh
 * CTEQ 2017, University of Pittsburgh, July 2017
 
 ### Referee Service
-* European Physical Journal C (EPJC) x 1
+* The European Physical Journal C (EPJ C) $\times 1$
+* Journal of Physics Communications (J. Phys. Commun.) $\times 1$
 
 ### Teaching Experience
 
@@ -84,7 +88,7 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * Department of Physics & Astronomy Graduate Student Mentor, August 2021 - present  
 Mentoring three first year graduate student
 * Assist to guide one visiting graduate student (*Xiaoze Tan*), December 2019 - December 2020  
-*([2202.08273](https://arxiv.org/abs/2202.08273), submitted to JHEP)*
+*([JHEP 08 (2022) 073](https://doi.org/10.1007/JHEP08(2022)073) [[2202.08273](https://arxiv.org/abs/2202.08273)]) *
 * Assist to guide one visiting undergraduate student, June 2019 - August 2019
 
 

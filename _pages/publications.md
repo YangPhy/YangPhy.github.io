@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Publications in refereed journals
 1. *Higgs boson decay to charmonia via $c$-quark fragmentation*  
-T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [2202.08273](https://arxiv.org/abs/2202.08273) (2022)
+T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [JHEP 08 (2022) 073](https://doi.org/10.1007/JHEP08(2022)073), [2202.08273](https://arxiv.org/abs/2202.08273) (2022)
 1. *Precision Test of the Muon-Higgs Coupling at a High-energy Muon Collider*  
 T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., [JHEP 12 (2021) 162](https://doi.org/10.1007/JHEP12(2021)162), [2108.05362](https://arxiv.org/abs/2108.05362) (2021)
 2. *Vector Boson Scattering Processes: Status and Prospects*  

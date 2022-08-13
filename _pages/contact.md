@@ -5,12 +5,12 @@ permalink: /contact/
 author_profile: true
 ---
 
-University of Pittsburgh  
-Department of Physics and Astronomy  
-100 Allen Hall  
-3941 O'Hara St  
-Pittsburgh, PA 15260  
-[Department website](https://www.physicsandastronomy.pitt.edu/)  
+University of Wisconsin-Madison
+Physics Department
+5278 Chamberlin Hall
+1150 University Avenue
+Madison, WI 53706-1390
+[Department website](https://www.physics.wisc.edu/)
 
 Email: mayangluon \at pitt.edu 
 {% include base_path %}
