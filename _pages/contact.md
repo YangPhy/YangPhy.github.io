@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-University of Wisconsin-Madisond
+University of Wisconsin-Madison  
 Physics Department  
 5278 Chamberlin Hall  
 1150 University Avenue  

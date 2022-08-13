@@ -20,7 +20,7 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Postdoctoral Researcher, (Expected) September 2022 - September 2024  r
+* Postdoctoral Researcher, (Expected) September 2022 - September 2024  
 INFN Sezione di Bologna, Italy
 * Graduate Teaching Fellow, May 2022 - July 2022  
 Department of Physics & Astronomy, University of Pittsburgh
