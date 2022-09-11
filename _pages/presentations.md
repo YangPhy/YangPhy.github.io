@@ -5,7 +5,17 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Seminar and colloquium
+## Seminars and colloquium
+1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
+HEP Seminar, University of Notre Dame, September 2022
+1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
+HEP Seminar, University of Wisconsin-Madison, September 2022
+1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
+HEP Special Seminar, University of Michigan, September 2022
+1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
+HEP Seminar, Northwestern University, September 2022
+1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
+HEP Seminar, Michigan State University, September 2022
 1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
 HEP Seminar, Washington University in St. Louis, August 2022
 1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
@@ -38,7 +48,7 @@ PITT PACC Group Seminar, University of Pittsburgh, October 2019
 PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
-## Conference talks
+## Conference and workshop talks
 1. *Higgs decay to $J/\psi$ via the $c$-quark fragmentation*  
 Parallel talk at ICHEP 2022, Bologna, Italy, July 2022
 1. *Higgs decay to $J/\psi$ via the $c$-quark fragmentation*  
