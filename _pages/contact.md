@@ -5,14 +5,12 @@ permalink: /contact/
 author_profile: true
 ---
 
-University of Wisconsin-Madison  
-Physics Department  
-5278 Chamberlin Hall  
-1150 University Avenue  
-Madison, WI 53706-1390  
-[Department website](https://www.physics.wisc.edu/)
+Istituto Nazionale di Fisica Nucleare Sezione di Bologna   
+Viale C. Berti Pichat, 6/2  
+40127 Bologna (Italia)  
+[Department website](https://www.bo.infn.it/)
 
-Email: mayangluon \at pitt.edu 
+Email: yang.ma \at bo.infn.it 
 {% include base_path %}
 
 {% for post in site.publications reversed %}

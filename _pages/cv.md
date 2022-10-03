@@ -20,7 +20,7 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
 ### Position Held
-* Postdoctoral Researcher, (Expected) September 2022 - September 2024  
+* Postdoctoral Researcher, September 2022 - present  
 INFN Bologna, Italy
 * Graduate Teaching Fellow, May 2022 - July 2022  
 Department of Physics & Astronomy, University of Pittsburgh
@@ -88,7 +88,7 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * Department of Physics & Astronomy Graduate Student Mentor, August 2021 - May 2022  
 Mentoring three first year graduate student
 * Assist to guide one visiting graduate student (*Xiaoze Tan*), December 2019 - December 2020  
-*([JHEP 08 (2022) 073](https://doi.org/10.1007/JHEP08(2022)073) [[2202.08273](https://arxiv.org/abs/2202.08273)]) *
+*([JHEP 08 (2022) 073](https://doi.org/10.1007/JHEP08(2022)073) [[2202.08273](https://arxiv.org/abs/2202.08273)])*
 * Assist to guide one visiting undergraduate student, June 2019 - August 2019
 
 

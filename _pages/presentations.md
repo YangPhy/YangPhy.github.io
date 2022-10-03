@@ -49,6 +49,8 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Higgs decay to charmonia via $c$-quark fragmentation*  
+Invited plenary talk at QWG 2022, GSI Darmstadt, September 2022 ([Link](https://indico.gsi.de/event/13128/contributions/65894/))
 1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
 (Remote) Invited talk at the SYSU-PKU Collider Physics forum For Young Scientists, September 2022
 1. *Higgs decay to $J/\psi$ via the $c$-quark fragmentation*  
