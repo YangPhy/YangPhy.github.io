@@ -49,8 +49,10 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
+Parallel talk at the Higgs 2022 Conference, Pisa, Italy, November 2022 ([Link](https://indico.cern.ch/event/1086716/contributions/5056363/))
 1. *EW and QCD physics at the muon collider*  
-Parallel talk at the Muon Collider Collaboration 2022, CERN, October 2022 ([Link](https://indico.cern.ch/event/1175126/contributions/5025516/))
+Parallel talk at the Muon Collider Collaboration Meeting 2022, CERN, October 2022 ([Link](https://indico.cern.ch/event/1175126/contributions/5025516/))
 1. *Higgs decay to charmonia via $c$-quark fragmentation*  
 Invited plenary talk at QWG 2022, GSI Darmstadt, September 2022 ([Link](https://indico.gsi.de/event/13128/contributions/65894/))
 1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
