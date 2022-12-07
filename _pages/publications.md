@@ -55,6 +55,8 @@ H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma and T. Zhong, [Nucl. Phys. B 884 (2014) 172
 J. Reuter, T. Han, W. Kilian, N. Kreher, Y. Ma, T. Striegl et al., in 41st International Conference on High Energy Physics, [2212.01323](https://arxiv.org/abs/2212.01323) (2022)
 1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
 T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan,  in 41st International Conference on High Energy Physics, [2211.10727](https://arxiv.org/abs/2211.10727) (2022)
+1. *Muon Collider Forum Report*  
+ K. M. Black et al., [2209.01318](https://arxiv.org/abs/2209.01318) (2022)
 1. *Electroweak fragmentation at high energies: A Snowmass White Paper*  
 T. Han, Y. Ma and K. Xie, Contribution to 2022 Snowmass Summer Study, [2203.11129](https://arxiv.org/abs/2203.11129) (2022)
 1. *Event Generators for High-Energy Physics Experiments*  
