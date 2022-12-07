@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Seminars and colloquium
+1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
+(Remote) Particle Physics Seminar, Chongqing University
+1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
+(Remote) Theoretical Physics Seminar, Shandong University
 1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
 HEP Seminar, University of Notre Dame, September 2022
 1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
