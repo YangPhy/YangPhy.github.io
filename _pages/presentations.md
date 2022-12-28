@@ -12,6 +12,8 @@ author_profile: true
 (Remote) Particle Physics Seminar, Chongqing University, December 2022
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
 (Remote) Theoretical Physics Seminar, Shandong University, December 2022
+1. *Phenomenology at high-energy colliders*  
+Bologna HEP Theory Journal Club, INFN Bologna \& University of Bologna, November 2022
 1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
 HEP Seminar, University of Notre Dame, September 2022
 1. *The partonic picture and the SM expectation of high-energy lepton colliders*  
