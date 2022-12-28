@@ -7,7 +7,7 @@ author_profile: true
 
 ## Seminars and colloquium
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
-(Remote) TDLI/INPAC Joint Theory Seminar, Shanghai Jiao Tong University
+(Remote) TDLI/INPAC Joint Theory Seminar, Shanghai Jiao Tong University, December 2022
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
 (Remote) Particle Physics Seminar, Chongqing University, December 2022
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
