@@ -7,6 +7,8 @@ author_profile: true
 
 ## Seminars and colloquium
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
+(Remote) TDLI/INPAC Joint Theory Seminar, Shanghai Jiao Tong University
+1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
 (Remote) Particle Physics Seminar, Chongqing University, December 2022
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
 (Remote) Theoretical Physics Seminar, Shandong University, December 2022
@@ -53,6 +55,8 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *EW and QCD physics at the muon collider*  
+Milan Christmas Meeting 2022, Milan, Italy, December 2022
 1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
 Parallel talk at the Higgs 2022 Conference, Pisa, Italy, November 2022 ([Link](https://indico.cern.ch/event/1086716/contributions/5056363/))
 1. *EW and QCD physics at the muon collider*  
