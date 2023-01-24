@@ -52,9 +52,9 @@ H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma and T. Zhong, [Nucl. Phys. B 884 (2014) 172
 
 ## Other publications
 1. *Precision test of the muon-Higgs coupling at a high-energy muon collider*  
-J. Reuter, T. Han, W. Kilian, N. Kreher, Y. Ma, T. Striegl et al., [2212.01323](https://arxiv.org/abs/2212.01323) (2022)
+J. Reuter, T. Han, W. Kilian, N. Kreher, Y. Ma, T. Striegl et al., [PoS ICHEP2022 (2022) 1239](https://doi.org/10.22323/1.414.1239), [2212.01323](https://arxiv.org/abs/2212.01323) (2022)
 1. *Higgs decay to charmonia and the charm-quark Yukawa coupling*  
-T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [2211.10727](https://arxiv.org/abs/2211.10727) (2022)
+T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [PoS ICHEP2022 (2022) 517](https://doi.org/10.22323/1.414.0517), [2211.10727](https://arxiv.org/abs/2211.10727) (2022)
 1. *Muon Collider Forum Report*  
  K. M. Black et al., [2209.01318](https://arxiv.org/abs/2209.01318) (2022)
 1. *Electroweak fragmentation at high energies: A Snowmass White Paper*  
