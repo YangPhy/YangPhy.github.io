@@ -24,7 +24,7 @@ A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 INFN Bologna, Italy
 * Graduate Teaching Fellow, May 2022 - July 2022  
 Department of Physics & Astronomy, University of Pittsburgh
-* Graduate Research Fellow, January 2022 - Present  
+* Graduate Research Fellow, January 2022 - May 2022  
 Department of Physics & Astronomy, University of Pittsburgh
 * Arts & Sciences Pre-Doctoral Fellow, September 2020 - December 2021  
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
