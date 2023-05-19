@@ -9,7 +9,7 @@ author_profile: true
 1. *Bread and butter physics at future multi-TeV lepton colliders*  
 NHETC Theory Seminar, Rutgers University, May 2023
 1. *Measuring the Yukawa couplings: Towards the 2nd generation fermions*  
-High Energy Lunch Seminar, University of Chicago, May 2023
+HEP Lunch Seminar, University of Chicago, May 2023
 1. *Electroweak Tevatron: High-Energy lepton colliders*  
 Theoretical Physics Seminar, Fermilab, May 2023 ([Link](https://news.fnal.gov/events/event/theoretical-physics-seminar-the-standard-model-expectation-at-the-high-energy-muon-collider/))
 1. *Bread and butter physics at future multi-TeV lepton colliders*  
