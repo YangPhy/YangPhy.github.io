@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 ## Seminars and colloquium
+1. *Bread and butter physics at future multi-TeV lepton colliders*  
+NHETC Theory Seminar, Rutgers University, May 2023
+1. *Measuring the Yukawa couplings: Towards the 2nd generation fermions*  
+High Energy Lunch Seminar, University of Chicago, May 2023
+1. *Electroweak Tevatron: High-Energy lepton colliders*  
+Theoretical Physics Seminar, Fermilab, May 2023 ([Link](https://news.fnal.gov/events/event/theoretical-physics-seminar-the-standard-model-expectation-at-the-high-energy-muon-collider/))
+1. *Bread and butter physics at future multi-TeV lepton colliders*  
+LEPP Theory Seminar, Cornell University, May 2023
+1. *Measuring the Yukawa couplings: Towards the 2nd generation fermions*  
+HEP Theory Seminar, University at Buffalo, May 2023
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
 (Remote) HEP Theory Seminar, Argonne National Laboratory (ANL), January 2023
 1. *Determine the Yukawa couplings of the second generation fermions at high-energy colliders*  
@@ -40,25 +50,27 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2022
 PITT PACC Group Seminar, University of Pittsburgh, September 2021
 1. *Parton contents of a lepton at high energies*  
 (Remote) Particle Theory Seminar, Carleton University, May 2021
-2. *The partonic picture at high-energy lepton colliders*  
+1. *The partonic picture at high-energy lepton colliders*  
 (Remote) SLAC EPP Theory Seminar, SLAC, April 2021 ([Link](https://theory.slac.stanford.edu/events/epp-theory-seminar-yang-ma-university-pittsburgh-the-partonic-picture-high-energy-lepton))
-3. *The partonic picture at high-energy lepton colliders*  
+1. *The partonic picture at high-energy lepton colliders*  
 (Remote) Particle Theory Seminar, Shandong University, April 2021
-4. *Parton contents of a lepton at high energies*  
+1. *Parton contents of a lepton at high energies*  
 (Remote) HEP Seminar, Oklahoma State University, April 2021
-5. *QCD jet production at high energy lepton colliders*  
+1. *QCD jet production at high energy lepton colliders*  
 (Remote) PITT PACC Group Seminar, University of Pittsburgh, March 2021
-6. *High energy lepton collisions and electroweak PDFs*  
+1. *High energy lepton collisions and electroweak PDFs*  
 (Remote) Particle Theory Seminar, Carleton University, October 2020
-7. *High energy lepton collisions and electroweak PDFs*  
+1. *High energy lepton collisions and electroweak PDFs*  
 (Remote) PITT PACC Group Seminar, University of Pittsburgh, September 2020
-8. *How much do we need polarized PDFs ?*  
+1. *How much do we need polarized PDFs ?*  
 PITT PACC Group Seminar, University of Pittsburgh, October 2019
-9. *Renormalization scheme uncertainties in high order perturbative QCD results*  
+1. *Renormalization scheme uncertainties in high order perturbative QCD results*  
 PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Muon Yukawa couplings at the high-energy muon collider*  
+Parallel talk at Pheno 2023, University of Pittsburgh, May 2023 ([Link](https://indico.cern.ch/event/1218225/contributions/5394844/))
 1. *Electroweak LHC: High-energy lepton colliders*  
 Invited talk at PIKIMO Spring 2023, Ohio State University, April 2023 ([Link](https://indico.cern.ch/event/1262310/contributions/5368655/))
 1. *EW and QCD physics at the muon collider*  
