@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Publications in refereed journals
 1. *Towards a muon collider*  
-C. Accettura et al., [Eur. Phys. J. C 83 (2023) 864](https://doi.org/10.1140/epjc/s10052-023-11889-x) [2303.08533](https://arxiv.org/abs/2303.08533) (2023)
+C. Accettura et al., [Eur. Phys. J. C 83 (2023) 864](https://doi.org/10.1140/epjc/s10052-023-11889-x), [2303.08533](https://arxiv.org/abs/2303.08533) (2023)
 2. *Higgs boson decay to charmonia via $c$-quark fragmentation*  
 T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [JHEP 08 (2022) 073](https://doi.org/10.1007/JHEP08(2022)073), [2202.08273](https://arxiv.org/abs/2202.08273) (2022)
 1. *Precision Test of the Muon-Higgs Coupling at a High-energy Muon Collider*  
