@@ -34,7 +34,9 @@ Department of Physics & Astronomy, University of Pittsburgh
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Awards and Honors
-* DPF Student Travel Award, April 2022
+* Outstanding Reviewer Awards 2022, March 2023  
+Journal of Physics Communications, IOP Publishing
+* DPF Student Travel Award, April 2022  
 APS Division of Particles and Fields (DPF)
 * Thomas-Lain Scholarship, April 2021  
 Department of Physics & Astronomy, University of Pittsburgh
@@ -59,6 +61,8 @@ Department of Physics & Astronomy, University of Pittsburgh
 * CTEQ 2017, University of Pittsburgh, July 2017
 
 ### Referee Service
+* Chinese Physics C (CPC) $\times 1$
+* Physical Review D (Phys. Rev. D) $\times 1$
 * The European Physical Journal C (EPJ C) $\times 1$
 * Journal of Physics Communications (J. Phys. Commun.) $\times 1$
 

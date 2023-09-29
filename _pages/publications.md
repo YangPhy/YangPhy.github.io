@@ -8,25 +8,27 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=td4jffcAAAAJ&hl=en) or [inSPIRE](https://inspirehep.net/authors/1514492). 
 
 ## Publications in refereed journals
-1. *Higgs boson decay to charmonia via $c$-quark fragmentation*  
+1. *Towards a muon collider*  
+C. Accettura et al., [Eur. Phys. J. C 83 (2023) 864](https://doi.org/10.1140/epjc/s10052-023-11889-x) [2303.08533](https://arxiv.org/abs/2303.08533) (2023)
+2. *Higgs boson decay to charmonia via $c$-quark fragmentation*  
 T. Han, A. K. Leibovich, Y. Ma and X.-Z. Tan, [JHEP 08 (2022) 073](https://doi.org/10.1007/JHEP08(2022)073), [2202.08273](https://arxiv.org/abs/2202.08273) (2022)
 1. *Precision Test of the Muon-Higgs Coupling at a High-energy Muon Collider*  
 T. Han, W. Kilian, N. Kreher, Y. Ma, J. Reuter, T. Striegl et al., [JHEP 12 (2021) 162](https://doi.org/10.1007/JHEP12(2021)162), [2108.05362](https://arxiv.org/abs/2108.05362) (2021)
-2. *Vector Boson Scattering Processes: Status and Prospects*  
+1. *Vector Boson Scattering Processes: Status and Prospects*  
 D. Buarque et al., [Rev. Phys. 8 (2022)](https://doi.org/10.1016/j.revip.2022.100071) [2106.01393](https://arxiv.org/abs/2106.01393) (2021)
-3. *Quark and Gluon Contents of a Lepton at High Energies*  
+1. *Quark and Gluon Contents of a Lepton at High Energies*  
 T. Han, Y. Ma and K. Xie, [JHEP 02 (2022) 154](https://doi.org/10.1007/JHEP02(2022)154), [2103.09844](https://arxiv.org/abs/2103.09844) (2021)
-4. *High energy leptonic collisions and electroweak parton distribution functions*  
+1. *High energy leptonic collisions and electroweak parton distribution functions*  
 T. Han, Y. Ma and K. Xie,  [Phys. Rev. D 103 (2021) L031301](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.L031301), [2007.14300](https://arxiv.org/abs/2007.14300) (2020)
-5. *Inclusive productions of $\Upsilon(1S,2S,3S)$ and $\chi_b(1P,2P,3P)$ via the Higgs boson decay*  
+1. *Inclusive productions of $\Upsilon(1S,2S,3S)$ and $\chi_b(1P,2P,3P)$ via the Higgs boson decay*  
 Z. Sun and Y. Ma, [Phys. Rev. D 100 (2019) 094019](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.094019), [1909.08548](https://arxiv.org/abs/1909.08548)  (2019)
-6. *Exclusive production of $J/\psi+\eta_c$ at the $B$ factories Belle and Babar using the principle of maximum conformality*  
+1. *Exclusive production of $J/\psi+\eta_c$ at the $B$ factories Belle and Babar using the principle of maximum conformality*  
 Z. Sun, X.-G. Wu, Y. Ma and S. J. Brodsky, [Phys. Rev. D 98 (2018) 094001](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.094001), [1807.04503](https://arxiv.org/abs/1807.04503) (2018)
-7. *Renormalization scheme dependence of high-order perturbative QCD predictions*  
+1. *Renormalization scheme dependence of high-order perturbative QCD predictions*  
 Y. Ma and X.-G. Wu, [Phys. Rev. D 97 (2018) 036024](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.97.036024), [1707.09886](https://arxiv.org/abs/1707.09886) (2017)
-8. *The Generalized Scheme-Independent Crewther Relation in QCD*  
+1. *The Generalized Scheme-Independent Crewther Relation in QCD*  
 J.-M. Shen, X.-G. Wu, Y. Ma and S. J. Brodsky, [Phys. Lett. B 770 (2017) 494](https://doi.org/10.1016/j.physletb.2017.05.022), [1611.07249](https://arxiv.org/abs/1611.07249) (2016)
-9. *Degeneracy Relations in QCD and the Equivalence of Two Systematic All-Orders Methods for Setting the Renormalization Scale*  
+1. *Degeneracy Relations in QCD and the Equivalence of Two Systematic All-Orders Methods for Setting the Renormalization Scale*  
 H.-Y. Bi, X.-G. Wu, Y. Ma, H.-H. Ma, S. J. Brodsky and M. Mojaza, [Phys. Lett. B 748 (2015) 13](https://doi.org/10.1016/j.physletb.2015.06.056), [1505.04958](https://arxiv.org/abs/1505.04958) (2015)
 1. *Setting the renormalization scale in perturbative QCD: Comparisons of the principle of maximum conformality with the sequential extended Brodsky-Lepage-Mackenzie approach*  
 H.-H. Ma, X.-G. Wu, Y. Ma, S. J. Brodsky and M. Mojaza, [Phys. Rev. D 91 (2015) 094028](https://doi.org/10.1103/PhysRevD.91.094028), [1504.01260](https://arxiv.org/abs/1504.01260) (2015)
