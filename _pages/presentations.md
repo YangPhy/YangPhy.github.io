@@ -11,6 +11,10 @@ HEP Seminar, Nankai University, December 2023
 1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
 HEP Seminar, Chongqing University, December 2023
 1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Central South University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Hunan University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
 HEP Seminar, Shandong University, December 2023
 1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
 HEP Seminar, University of Science and Technology of China (USTC), December 2023
