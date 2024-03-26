@@ -6,6 +6,32 @@ author_profile: true
 ---
 
 ## Seminars and colloquium
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Nankai University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Chongqing University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Shandong University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, University of Science and Technology of China (USTC), December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Nanjing Normal University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Southeast University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Fudan University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Nanjing University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Tsung-Dao Lee Institute (TDLI), Shanghai Jiao Tong University, December 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Peking University, November 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Tsinghua University, November 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Seminar, Institute of Theoretical Physics, Chinese Academy of Sciences, November 2023
+1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+HEP Theory Seminar, IHEP, Chinese Academy of Sciences, November 2023
 1. *Bread and butter physics at future multi-TeV lepton colliders*  
 NHETC Theory Seminar, Rutgers University, May 2023
 1. *Measuring the Yukawa couplings: Towards the 2nd generation fermions*  
@@ -69,8 +95,14 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Probing Higgs-Muon Interactions at Multi-TeV Collider*  
+Parallel talk at IMCC and MuCol Annual Meeting 2024, CERN, March 2024 ([Link](https://indico.cern.ch/event/1325963/contributions/5837299/))
+2. *Multiple boson production at high-energy muon colliders to probe the Higgs-muon coupling*  
+Parallel talk at Higgs 2023, IHEP, Beijing, December 2023 ([Link](https://indico.ihep.ac.cn/event/18025/contributions/141841/))
+1. *Higgs decay to quarkonia and the Yukawa couplings*  
+Parallel talk at Higgs 2023, IHEP, Beijing, November 2023 ([Link](https://indico.ihep.ac.cn/event/18025/contributions/141810/))
 1. *Muon colliders and Weak PDFs*  
-$MadGraph5\_aMC@NLO$ meeting 2023, Gargnano, Lake Garda, Italy, September 2023
+$\texttt{MadGraph5\_aMC@NLO}$ meeting 2023, Gargnano, Lake Garda, Italy, September 2023
 2. *Muon Yukawa couplings at the high-energy muon collider*  
 Parallel talk at Pheno 2023, University of Pittsburgh, May 2023 ([Link](https://indico.cern.ch/event/1218225/contributions/5394844/))
 1. *Electroweak LHC: High-energy lepton colliders*  

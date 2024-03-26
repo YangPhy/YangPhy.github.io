@@ -30,7 +30,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
 * Graduate Research Assistant, January 2020 - August 2020  
 Department of Physics & Astronomy, University of Pittsburgh
-* Graduate Teaching Assistant, September 2016 - January 2020  
+* Graduate Teaching Assistant, August 2016 - January 2020  
 Department of Physics & Astronomy, University of Pittsburgh
 
 ### Awards and Honors
@@ -51,6 +51,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 * American Physical Society (APS) member, since March 2021
 * Organization of Chinese Physics & Astrophysics (OCPA) member, since September 2021
 * American Association for the Advancement of Science (AAAS) member, since September 2021
+* International Muon collider collaboration (IMCC) member, since July 2022
 
 ### Summer Schools Attended
 * CTEQ 2022, University of Pittsburgh, July 2022
@@ -61,10 +62,13 @@ Department of Physics & Astronomy, University of Pittsburgh
 * CTEQ 2017, University of Pittsburgh, July 2017
 
 ### Referee Service
-* Chinese Physics C (CPC) $\times 1$
 * Physical Review D (Phys. Rev. D) $\times 1$
+* Chinese Physics C (CPC) $\times 1$
 * The European Physical Journal C (EPJ C) $\times 1$
 * Journal of Physics Communications (J. Phys. Commun.) $\times 1$
+* Journal of Physics G: Nuclear and Particle Physics (J. Phys. G) $\times 1$
+* Nuclear Physics B (Nucl. Phys. B) $\times 1$
+* Machine Learning: Science and Technology (MLST) $\times 1$
 
 ### Teaching Experience
 
