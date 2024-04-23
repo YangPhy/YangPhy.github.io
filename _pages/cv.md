@@ -66,7 +66,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 * Chinese Physics C (CPC) $\times 1$
 * The European Physical Journal C (EPJ C) $\times 1$
 * Journal of Physics Communications (J. Phys. Commun.) $\times 1$
-* Journal of Physics G: Nuclear and Particle Physics (J. Phys. G) $\times 1$
+* Journal of Physics G: Nuclear and Particle Physics (J. Phys. G) $\times 2$
 * Nuclear Physics B (Nucl. Phys. B) $\times 1$
 * Machine Learning: Science and Technology (MLST) $\times 1$
 
