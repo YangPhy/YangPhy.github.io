@@ -4,11 +4,12 @@ title: "Contact info"
 permalink: /contact/
 author_profile: true
 ---
-Gruppo Teorico  
-Istituto Nazionale di Fisica Nucleare Sezione di Bologna  
-Via Irnerio, 46  
-40126 Bologna (Italia)  
-[Department website](https://www.bo.infn.it/)
+Centre for Cosmology, Particle Physics and Phenomenology - CP3  
+Université catholique de Louvain  
+2, Chemin du Cyclotron - Box L7.01.05  
+B-1348 Louvain-la-Neuve  
+Belgium  
+[Department website](https://uclouvain.be/en/research-institutes/irmp/cp3)
 
 Email: yang.ma \at bo.infn.it 
 {% include base_path %}

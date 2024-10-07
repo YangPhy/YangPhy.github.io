@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Seminars and colloquium
-1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
+1. *Probe the Yukawa interactions of the 2nd generation fermions at high-energy colliders*  
+TDLI/INPAC Joint Theory Seminar, Shanghai Jiao Tong University, July 2024
+2. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
 HEP Seminar, Nankai University, December 2023
 1. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
 HEP Seminar, Chongqing University, December 2023
@@ -99,15 +101,25 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Electroweak radiation picture of the future multi-TeV muon collider*  
+  Early Career Researchers \& Muon Colliders (Online), August 2024
+2. *Higgs-muon interactions at a multi-TeV muon collider*  
+Parallel talk at ICHEP 2024, Prague, Czech Republic, July 2024 ([Link](https://indico.cern.ch/event/1291157/contributions/5876732/))
+1. *Towards a Muon Collider: III. Higgs Physics*  
+Frontier Physics Working Month, South China Normal University, June 2024
+1. *Towards a Muon Collider: II. The Partonic Picture*  
+Frontier Physics Working Month, Shandong University (Qingdao), June 2024
+1. *Towards a Muon Collider: I. The General Picture*  
+Frontier Physics Working Month, Peking University, June 2024
 1. *Probing Higgs-Muon Interactions at Multi-TeV Collider*  
 Parallel talk at IMCC and MuCol Annual Meeting 2024, CERN, March 2024 ([Link](https://indico.cern.ch/event/1325963/contributions/5837299/))
-2. *Multiple boson production at high-energy muon colliders to probe the Higgs-muon coupling*  
+1. *Multiple boson production at high-energy muon colliders to probe the Higgs-muon coupling*  
 Parallel talk at Higgs 2023, IHEP, Beijing, December 2023 ([Link](https://indico.ihep.ac.cn/event/18025/contributions/141841/))
 1. *Higgs decay to quarkonia and the Yukawa couplings*  
 Parallel talk at Higgs 2023, IHEP, Beijing, November 2023 ([Link](https://indico.ihep.ac.cn/event/18025/contributions/141810/))
 1. *Muon colliders and Weak PDFs*  
 $\texttt{MadGraph5\_aMC@NLO}$ meeting 2023, Gargnano, Lake Garda, Italy, September 2023
-2. *Muon Yukawa couplings at the high-energy muon collider*  
+1. *Muon Yukawa couplings at the high-energy muon collider*  
 Parallel talk at Pheno 2023, University of Pittsburgh, May 2023 ([Link](https://indico.cern.ch/event/1218225/contributions/5394844/))
 1. *Electroweak LHC: High-energy lepton colliders*  
 Invited talk at PIKIMO Spring 2023, Ohio State University, April 2023 ([Link](https://indico.cern.ch/event/1262310/contributions/5368655/))
