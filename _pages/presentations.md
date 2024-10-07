@@ -102,7 +102,7 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 ## Conference and workshop talks
 1. *Electroweak radiation picture of the future multi-TeV muon collider*  
-  Early Career Researchers \& Muon Colliders (Online), August 2024
+  Early Career Researchers & Muon Colliders (Online), August 2024
 2. *Higgs-muon interactions at a multi-TeV muon collider*  
 Parallel talk at ICHEP 2024, Prague, Czech Republic, July 2024 ([Link](https://indico.cern.ch/event/1291157/contributions/5876732/))
 1. *Towards a Muon Collider: III. Higgs Physics*  
