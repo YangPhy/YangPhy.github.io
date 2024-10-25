@@ -11,7 +11,7 @@ B-1348 Louvain-la-Neuve
 Belgium  
 [Department website](https://uclouvain.be/en/research-institutes/irmp/cp3)
 
-Email: yang.ma \at bo.infn.it 
+Email: yang.ma \at uclouvain.be 
 {% include base_path %}
 
 {% for post in site.publications reversed %}
