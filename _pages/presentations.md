@@ -101,6 +101,8 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Precision physics at the future muon collider*  
+$\texttt{MadGraph5\_aMC@NLO}$ meeting 2025, CERN, February 2025
 1. *Electroweak radiation picture of the future multi-TeV muon collider*  
   Early Career Researchers & Muon Colliders (Online), August 2024
 2. *Higgs-muon interactions at a multi-TeV muon collider*  

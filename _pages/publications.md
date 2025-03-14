@@ -9,9 +9,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Publications in refereed journals
 1. *EW corrections and Heavy Boson Radiation at a high-energy muon collider*  
-Y. Ma, D. Pagani, and M. Zaro, [2409.09129](https://arxiv.org/abs/2409.09129) (2024)
+Y. Ma, D. Pagani, and M. Zaro, [Phys. Rev. D 111 (2025) 053002](https://doi.org/10.1103/PhysRevD.111.053002), [2409.09129](https://arxiv.org/abs/2409.09129) (2024)
 2. *A new probe of dark matter-baryon interactions in compact stellar systems*  
-Y. Ma and Z. Wang, [2408.01818](https://arxiv.org/abs/2408.01818) (2024)
+Y. Ma and Z. Wang, [Phys. Rev. D 111 (2025) L061302](https://doi.org/10.1103/PhysRevD.111.L061302), [2408.01818](https://arxiv.org/abs/2408.01818) (2024)
 1. *Probing Higgs-muoninteractions at a multi-TeV muon collider*  
 E. Celada, T. Han, W. Kilian, N. Kreher, Y. Ma, F. Maltoni et al., [JHEP 08 (2024) 021](https://doi.org/10.1007/JHEP08(2024)021), [2312.13082](https://arxiv.org/abs/2312.13082) (2023)
 1. *Towards a muon collider*  
