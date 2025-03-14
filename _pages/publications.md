@@ -59,13 +59,13 @@ H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma and T. Zhong, [Nucl. Phys. B 884 (2014) 172
 
 
 ## Other publications
-1. *MuCol Milestone Report No. 5: Preliminary Parameters* 
+1. *MuCol Milestone Report No. 5: Preliminary Parameters*  
 MuCoL collaboration, [2410.06991](https://arxiv.org/abs/2410.06991) (2024)
-1. *Higgs-muon interactions at a multi-TeV muon collider*  
+1. *Higgs-muon interactions at a multi-TeV muon collider*   
 Y. Ma, E. Celada, T. Han, W. Kilian, N. Kreher, F. Maltoni, et al., [PoS ICHEP2024 (2024) 092](https://doi.org/10.22323/1.476.0092), [2410.06991](https://arxiv.org/abs/2410.06991) (2024)
-1. *Interim report for the International Muon Collider Collaboration (IMCC)* 
+1. *Interim report for the International Muon Collider Collaboration (IMCC)*  
 International Muon Collider collaboration, [2407.12450](https://arxiv.org/abs/2407.12450) (2024)
-1. *CEPC Technical Design Report: Accelerator* 
+1. *CEPC Technical Design Report: Accelerator*  
 CEPC Study Group collaboration, [Radiat.
 Detect. Technol. Methods 8 (2024) 1 ](https://doi.org/10.1007/s41605-024-00463-y), [2312.14363](https://arxiv.org/abs/2312.14363) (2023)
 1. *Precision test of the muon-Higgs coupling at a high-energy muon collider*  
