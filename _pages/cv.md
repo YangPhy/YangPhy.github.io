@@ -64,8 +64,9 @@ Department of Physics & Astronomy, University of Pittsburgh
 * CTEQ 2017, University of Pittsburgh, July 2017
 
 ### Referee Service
+* Physical Review Letters (Phys. Rev. Lett.) $\times 1$
 * Physical Review D (Phys. Rev. D) $\times 1$
-* Chinese Physics C (CPC) $\times 1$
+* Chinese Physics C (CPC) $\times 3$
 * The European Physical Journal C (EPJ C) $\times 1$
 * Journal of Physics Communications (J. Phys. Commun.) $\times 1$
 * Journal of Physics G: Nuclear and Particle Physics (J. Phys. G) $\times 2$
