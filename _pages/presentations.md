@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Seminars and colloquium
+1. *Precision physics at the future muon colliders*  
+Theory Colloquium, DESY, Germany, May 2025
 1. *Probe the Yukawa interactions of the 2nd generation fermions at high-energy colliders*  
 TDLI/INPAC Joint Theory Seminar, Shanghai Jiao Tong University, July 2024
 2. *Physics opportunities and challenges at future multi-TeV lepton colliders*  
@@ -101,6 +103,10 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Light Axion-Like Particles at Future Lepton Colliders*  
+Parallel talk at Pheno 2025, University of Pittsburgh, May 2025
+1. *Probing electroweak NLO corrections and Sudakov logarithms at multi-TeV muon colliders*  
+Parallel talk at IMCC and MuCol Annual Meeting 2025, DESY, Germany, May 2025
 1. *Precision physics at the future muon collider*  
 $\texttt{MadGraph5\_aMC@NLO}$ meeting 2025, CERN, February 2025
 1. *Electroweak radiation picture of the future multi-TeV muon collider*  

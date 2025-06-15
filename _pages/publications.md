@@ -8,9 +8,11 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=td4jffcAAAAJ&hl=en) or [inSPIRE](https://inspirehep.net/authors/1514492). 
 
 ## Publications in refereed journals
+1. *Light Axion-Like Particles at Future Lepton Colliders*  
+S.-s. Bao, Y. Ma, Y. Wu, K. Xie and H. Zhang, [2505.10023](https://arxiv.org/abs/2505.10023) (2025)
 1. *EW corrections and Heavy Boson Radiation at a high-energy muon collider*  
 Y. Ma, D. Pagani, and M. Zaro, [Phys. Rev. D 111 (2025) 053002](https://doi.org/10.1103/PhysRevD.111.053002), [2409.09129](https://arxiv.org/abs/2409.09129) (2024)
-2. *A new probe of dark matter-baryon interactions in compact stellar systems*  
+1. *A new probe of dark matter-baryon interactions in compact stellar systems*  
 Y. Ma and Z. Wang, [Phys. Rev. D 111 (2025) L061302](https://doi.org/10.1103/PhysRevD.111.L061302), [2408.01818](https://arxiv.org/abs/2408.01818) (2024)
 1. *Probing Higgs-muoninteractions at a multi-TeV muon collider*  
 E. Celada, T. Han, W. Kilian, N. Kreher, Y. Ma, F. Maltoni et al., [JHEP 08 (2024) 021](https://doi.org/10.1007/JHEP08(2024)021), [2312.13082](https://arxiv.org/abs/2312.13082) (2023)
@@ -59,8 +61,10 @@ H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma and T. Zhong, [Nucl. Phys. B 884 (2014) 172
 
 
 ## Other publications
+1. *The Muon Collider*  
+International Muon Collider collaboration, [2504.21417](https://arxiv.org/abs/2504.21417) (2025)
 1. *MuCol Milestone Report No. 5: Preliminary Parameters*  
-MuCoL collaboration, [2410.06991](https://arxiv.org/abs/2410.06991) (2024)
+MuCoL collaboration, [2411.02966](https://arxiv.org/abs/2411.02966) (2024)
 1. *Higgs-muon interactions at a multi-TeV muon collider*   
 Y. Ma, E. Celada, T. Han, W. Kilian, N. Kreher, F. Maltoni, et al., [PoS ICHEP2024 (2024) 092](https://doi.org/10.22323/1.476.0092), [2410.06991](https://arxiv.org/abs/2410.06991) (2024)
 1. *Interim report for the International Muon Collider Collaboration (IMCC)*  
