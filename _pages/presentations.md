@@ -103,6 +103,10 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Precision physics at the future muon collider*  
+(Invited) Parallel talk at the 2nd Annual US Muon Collider Meeting, University of Chicago, August 2025
+1. *Higgs-muon interactions at a multi-TeV muon collider*  
+GGI workshop: *Exploring the energy frontier with muon beams*, Florence, Italy, July 2025
 1. *Light Axion-Like Particles at Future Lepton Colliders*  
 Parallel talk at Pheno 2025, University of Pittsburgh, May 2025
 1. *Probing electroweak NLO corrections and Sudakov logarithms at multi-TeV muon colliders*  
