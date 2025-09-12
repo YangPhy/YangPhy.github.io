@@ -12,6 +12,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 P. Bredt, T. Banno, M. Höfer, S. Iguro, W. Kilian, Y. Ma et al., [2509.05421](https://arxiv.org/abs/2509.05421) (2025)
 1. *Non-Standard Neutrino Interactions at a Muon Collider Neutrino Detector*  
 F. Kling, Y. Ma, K. Mękała, J. Reuter, and Z. Tabrizi, [2508.00761](https://arxiv.org/abs/2508.00761) (2025)
+1. *Light Axion-Like Particles at Future Lepton Colliders*  
+S.-s. Bao, Y. Ma, Y. Wu, K. Xie, and H. Zhang, [2505.10023](https://arxiv.org/abs/2505.10023) (2025)
 1. *EW corrections and Heavy Boson Radiation at a high-energy muon collider*  
 Y. Ma, D. Pagani, and M. Zaro, [Phys. Rev. D 111 (2025) 053002](https://doi.org/10.1103/PhysRevD.111.053002), [2409.09129](https://arxiv.org/abs/2409.09129) (2024)
 1. *A new probe of dark matter-baryon interactions in compact stellar systems*  
