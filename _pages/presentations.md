@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Seminars and colloquium
+1. *A New Frontier: Charting the Course for a 10 TeV Muon Collider*  
+SOTU Seminar, Tata Institute of Fundamental Research, Mumbai, India, October 2025
 1. *Precision physics at the future muon colliders*  
 Theory Colloquium, DESY, Germany, May 2025
 1. *Probe the Yukawa interactions of the 2nd generation fermions at high-energy colliders*  
