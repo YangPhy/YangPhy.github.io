@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 ## Publications in refereed journals
 1. *Chasing the two-Higgs-doublet model via electroweak corrections at $e^+e^-$ colliders*  
-P. Bredt, T. Banno, M. Höfer, S. Iguro, W. Kilian, Y. Ma et al., [2509.05421](https://arxiv.org/abs/2509.05421) (2025)
+P. Bredt, T. Banno, M. Höfer, S. Iguro, W. Kilian, Y. Ma et al., [Phys. Rev. Lett. 136 (2026) 081801](https://doi.org/10.1103/mnqp-l2h9), [2509.05421](https://arxiv.org/abs/2509.05421) (2025)
 1. *Non-Standard Neutrino Interactions at a Muon Collider Neutrino Detector*  
 F. Kling, Y. Ma, K. Mękała, J. Reuter, and Z. Tabrizi, [2508.00761](https://arxiv.org/abs/2508.00761) (2025)
 1. *Light Axion-Like Particles at Future Lepton Colliders*  

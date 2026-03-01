@@ -105,6 +105,8 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Toward precision Higgs at FCC-ee and jet physics at the muon collider*  
+$\texttt{MadGraph5\_aMC@NLO}$ meeting 2026, Heidelberg, Germany, February 2026
 1. *Precision physics at the future muon collider*  
 (Invited) Parallel talk at the 2nd Annual US Muon Collider Meeting, University of Chicago, August 2025
 1. *Higgs-muon interactions at a multi-TeV muon collider*  
