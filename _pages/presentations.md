@@ -105,6 +105,10 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Beyond the Standard Model at Future Colliders*  
+(Invited) Parallel talk at LHCP 2026, Sorbonne Université, France, May 2026
+1. *Chasing 2HDM via electroweak corrections at $e^+e^-$ colliders*  
+Parallel talk at Pheno 2026, University of Pittsburgh, May 2026
 1. *Toward precision Higgs at FCC-ee and jet physics at the muon collider*  
 $\texttt{MadGraph5\_aMC@NLO}$ meeting 2026, Heidelberg, Germany, February 2026
 1. *Precision physics at the future muon collider*  
