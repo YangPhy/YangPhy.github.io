@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=td4jffcAAAAJ&hl=en) or [inSPIRE](https://inspirehep.net/authors/1514492). 
 
 ## Publications in refereed journals
-1. *Probing $\tau$ lepton dipolemoments at future Lepton Colliders*
+1. *Probing $\tau$ lepton dipolemoments at future Lepton Colliders*  
 D. Buttazzo, G. Levati, Y. Ma, F. Maltoni, P. Paradisi and Z. Wang, [2604.14281](https://arxiv.org/abs/2604.14281) (2026)    
 1. *Chasing the two-Higgs-doublet model via electroweak corrections at $e^+e^-$ colliders*  
 P. Bredt, T. Banno, M. Höfer, S. Iguro, W. Kilian, Y. Ma et al., [Phys. Rev. Lett. 136 (2026) 081801](https://doi.org/10.1103/mnqp-l2h9), [2509.05421](https://arxiv.org/abs/2509.05421) (2025)
