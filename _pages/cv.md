@@ -85,7 +85,7 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * Mentor one visiting undergraduate student, June 2019 - August 2019
 
 ### Institutional and Professional Service
-
+<!-- -->
 #### Institutional Service 
 * Co-organizer, *CP3 Seminar Series*, UCLouvain, June 2025 - Present
 * Co-organizer, *Bologna HEP Theory Journal Club* October 2022 - December 2023  
