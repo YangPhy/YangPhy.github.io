@@ -55,25 +55,25 @@ Department of Physics & Astronomy, University of Pittsburgh
 
 ### Teaching Experience
 
-**Graduate Teaching Fellow (instructor) at the University of Pittsburgh**
-* PHYS 0174 - *Basic Physics, Science and Engineering 1*, Summer 2022  
+* **Graduate Teaching Fellow (instructor) at the University of Pittsburgh**
+  * PHYS 0174 - *Basic Physics, Science and Engineering 1*, Summer 2022  
 Covers Mechanics and waves
 
-**Graduate Teaching Assistant at the University of Pittsburgh**
-* PHYS 0219 - *Basic Laboratory Physics for Science and Engineering*  
+* **Graduate Teaching Assistant at the University of Pittsburgh**
+  * PHYS 0219 - *Basic Laboratory Physics for Science and Engineering*  
 Fall 2016, Spring 2017, and Fall 2018
-* PHYS 0212 - *Introduction to Laboratory Physics*  
+  * PHYS 0212 - *Introduction to Laboratory Physics*  
  Fall 2017, Spring 2018, and Summer 2018
-* PHYS 0110 - *Introduction to Physics 1*, Summer 2018  
+  * PHYS 0110 - *Introduction to Physics 1*, Summer 2018  
 Covers Mechanics, Heat and Thermodynamics, and Waves
-* PHYS 0111 - *Introduction to Physics 2*, Summer 2017  
+  * PHYS 0111 - *Introduction to Physics 2*, Summer 2017  
 Covers Thermodynamics, Electromagnetism, Optics, Special Relativity, and Quantum Physics
-* PHYS 0175 - *Basic Physics, Science and Engineering 2*, Spring 2019 and Summer 2021  
+  * PHYS 0175 - *Basic Physics, Science and Engineering 2*, Spring 2019 and Summer 2021  
 Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 
-**Graduate Teaching Assistant at Chongqing University**
-* College Physics I - *Classical Mechanics and Electromagnetism*, Spring 2014
-* College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
+* **Graduate Teaching Assistant at Chongqing University**
+  * College Physics I - *Classical Mechanics and Electromagnetism*, Spring 2014
+  * College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
 
 ### Mentoring Experience
 * Research mentoring of PhD student at UCLouvain (ZeQiang Wang), October 2024 - October 2026  
@@ -86,26 +86,26 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 
 ### Institutional and Professional Service
 
-**Institutional Service** 
-* Co-organizer, *CP3 Seminar Series*, UCLouvain, June 2025 - Present
-* Co-organizer, *Bologna HEP Theory Journal Club* October 2022 - December 2023  
+* **Institutional Service** 
+  * Co-organizer, *CP3 Seminar Series*, UCLouvain, June 2025 - Present
+  * Co-organizer, *Bologna HEP Theory Journal Club* October 2022 - December 2023  
   *jointly organized by INFN Bologna and the University of Bologna*
 
-**Conference Service**
-* Session Convener, *ELectroweak Physics*, Pheno 2026, May 2026
-* Session Chair, *Axion I* and *BSM Physics II*, APS April Meeting 2022, April 2022
+* **Conference Service**
+  * Session Convener, *ELectroweak Physics*, Pheno 2026, May 2026
+  * Session Chair, *Axion I* and *BSM Physics II*, APS April Meeting 2022, April 2022
   
-**Referee Service**
-* Chinese Physics C (*CPC*) $\times 5$
-* Chinese Physics Letters (*Chin. Phys. Lett.*) $\times 1$
-* The European Physical Journal C (*EPJ C*) $\times 1$
-* Machine Learning: Science and Technology (*MLST*) $\times 1$
-* Nuclear Physics B (*Nucl. Phys. B*) $\times 1$
-* Journal of High Energy Physics (*JHEP*) $\times 1$
-* Journal of Physics Communications (*J. Phys. Commun.*) $\times 1$
-* Journal of Physics G: Nuclear and Particle Physics (*J. Phys. G*) $\times 2$
-* Physical Review D (*Phys. Rev. D*) $\times 1$
-* Physical Review Letters (*Phys. Rev. Lett.*) $\times 2$
+* **Referee Service**
+  * Chinese Physics C (*CPC*) $\times 5$
+  * Chinese Physics Letters (*Chin. Phys. Lett.*) $\times 1$
+  * The European Physical Journal C (*EPJ C*) $\times 1$
+  * Machine Learning: Science and Technology (*MLST*) $\times 1$
+  * Nuclear Physics B (*Nucl. Phys. B*) $\times 1$
+  * Journal of High Energy Physics (*JHEP*) $\times 1$
+  * Journal of Physics Communications (*J. Phys. Commun.*) $\times 1$
+  * Journal of Physics G: Nuclear and Particle Physics (*J. Phys. G*) $\times 2$
+  * Physical Review D (*Phys. Rev. D*) $\times 1$
+  * Physical Review Letters (*Phys. Rev. Lett.*) $\times 2$
 
 ### Science Communication and Public Outreach
 * *Printemps des Sciences 2026*, UCLouvain, March 2026   
