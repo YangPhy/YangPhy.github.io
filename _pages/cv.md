@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 A PDF version of CV can be found [here](/files/cvYangMa.pdf).
 
-### Professional Preparation
+## Professional Preparation
 * Ph.D. in Physics, University of Pittsburgh, August 2022
 * M.S. in Physics, Chongqing University, June 2016
 
-### Skills 
+## Skills 
 * Programming Language: C/C++, Fortran, Python, Shell script
 * Handy Programs: Mathematica, Matlab, LATEX, Excel, Powerpoint, Linux (OS)
 * HEP Packages: Madgraph, Pythia, FeynRules, FeynArts, FeynCalc, FormCalc, WHIZARD, ManeParse
 
-### Position Held
+## Position Held
 * Postdoctoral Researcher, October 2024 - present  
 Center for Cosmology, Particle Physics and Phenomenology (CP3), UCLouvain, Belgium
 * Postdoctoral Researcher, September 2022 - September 2024  
@@ -35,7 +35,7 @@ Department of Physics & Astronomy, University of Pittsburgh
 * Graduate Teaching Assistant, August 2016 - January 2020  
 Department of Physics & Astronomy, University of Pittsburgh
 
-### Awards and Honors
+## Awards and Honors
 * F.R.S.-FNRS *Chargé de recherches* (Postdoctoral Fellowship), June 2024  
   *Individual research fellowship awarded by the Belgian National Fund for Scientific Research (F.R.S.-FNRS)*.
 * Outstanding Reviewer Awards 2022, March 2023  
@@ -53,8 +53,7 @@ Kenneth P. Dietrich School of Arts & Sciences, University of Pittsburgh
 * Pitt Physics and Astronomy China Initiative (PACI) Scholarship, September 2016  
 Department of Physics & Astronomy, University of Pittsburgh
 
-### Teaching Experience
-
+## Teaching Experience
 * **Graduate Teaching Fellow (instructor) at the University of Pittsburgh**
   * PHYS 0174 - *Basic Physics, Science and Engineering 1*, Summer 2022  
 Covers Mechanics and waves
@@ -75,7 +74,7 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
   * College Physics I - *Classical Mechanics and Electromagnetism*, Spring 2014
   * College Physics II - *Thermodynamics, Optics and Special Relativity*, Fall 2013
 
-### Mentoring Experience
+## Mentoring Experience
 * Research mentoring of PhD student at UCLouvain (ZeQiang Wang), October 2024 - October 2026  
 *Dr. Wang received his PhD in 2026* 
 * Department of Physics & Astronomy Graduate Student Mentor, August 2021 - May 2022  
@@ -84,8 +83,7 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 *Dr. Tan received his PhD in 2022 and is currently a postdoctoral researcher at DESY.*
 * Mentor one visiting undergraduate student, June 2019 - August 2019
 
-### Institutional and Professional Service
-
+## Institutional and Professional Service
 * **Institutional Service** 
   * Co-organizer, *CP3 Seminar Series*, UCLouvain, June 2025 - Present
   * Co-organizer, *Bologna HEP Theory Journal Club* October 2022 - December 2023  
@@ -107,19 +105,19 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
   * Physical Review D (*Phys. Rev. D*) $\times 1$
   * Physical Review Letters (*Phys. Rev. Lett.*) $\times 2$
 
-### Science Communication and Public Outreach
+## Science Communication and Public Outreach
 * *Printemps des Sciences 2026*, UCLouvain, March 2026   
   Facilitated cloud-chamber demonstrations and interactive activities on Monte Carlo methods.
 * *Printemps des Sciences 2025*, UCLouvain, March 2025  
   Organized and facilitated a CMS Masterclass, guiding high-school students through the analysis of real CMS collision events.
 
-### Membership in Professional Societies
+## Membership in Professional Societies
 * American Physical Society (APS) member, since March 2021
 * Organization of Chinese Physics & Astrophysics (OCPA) member, since September 2021
 * American Association for the Advancement of Science (AAAS) member, since September 2021
 * International Muon collider collaboration (IMCC) member, since July 2022
 
-### Summer Schools Attended
+## Summer Schools Attended
 * CTEQ 2022, University of Pittsburgh, July 2022
 * SSI 2021, SLAC, August 2021
 * HCPSS 202, Fermilab, August 2020
