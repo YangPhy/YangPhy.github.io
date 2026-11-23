@@ -105,6 +105,10 @@ PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
 ## Conference and workshop talks
+1. *Chasing 2HDM via electroweak corrections at $e^+e^-$ colliders*  
+Parallel talk at Higgs 2026, UCLouvain, Belgium, October 2026
+1. *Precision Phenomenology at LFCs*  
+(Invited) The 13th Lepton Future Collider (LFC) 2026, SISSA, Italy, September 2026
 1. *Beyond the Standard Model at Future Colliders*  
 (Invited) Parallel talk at LHCP 2026, Sorbonne Université, France, May 2026
 1. *Chasing 2HDM via electroweak corrections at $e^+e^-$ colliders*  
