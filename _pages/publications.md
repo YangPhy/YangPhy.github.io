@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=td4jffcAAAAJ&hl=en) or [inSPIRE](https://inspirehep.net/authors/1514492). 
 
-## Research publications
+## Research Publications
 1. *Probing $\tau$ lepton dipolemoments at multi-TeV muon colliders*  
 D. Buttazzo, G. Levati, Y. Ma, F. Maltoni, P. Paradisi, and Z. Wang, [2611.21813](https://arxiv.org/abs/2611.21813) (2026)    
 1. *Electroweak Parton Distribution Functions for Future Lepton Colliders*  
@@ -74,7 +74,7 @@ Z. Sun, X.-G. Wu, G. Chen, Y. Ma, H.-H. Ma, and H.-Y. Bi, [Phys. Rev. D 89 (2014
 H.-B. Fu, X.-G. Wu, H.-Y. Han, Y. Ma, and T. Zhong, [Nucl. Phys. B 884 (2014) 172](https://doi.org/10.1016/j.nuclphysb.2014.04.021), [1309.5723](https://arxiv.org/abs/1309.5723) (2013)
 
 
-## Conference proceedings and community reports
+## Conference Proceedings and Community Reports
 1. *ECFA Higgs, electroweak, and top Factory Study, vol. 5/2025 of CERN Yellow Reports: Monographs. 6, 2025*  
 J. Altmann et al., [10.23731/CYRM-2025-005](https://doi.org/10.23731/CYRM-2025-005), [2506.15390](https://arxiv.org/abs/2506.15390) (2025)
 1. *The Muon Collider*  

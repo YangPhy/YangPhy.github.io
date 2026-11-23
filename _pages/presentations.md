@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-## Seminars and colloquium
+## Seminars and Colloquia
 1. *A New Frontier: Charting the Course for a 10 TeV Muon Collider*  
 SOTU Seminar, Tata Institute of Fundamental Research, Mumbai, India, October 2025
 1. *Precision physics at the future muon colliders*  
@@ -104,7 +104,7 @@ PITT PACC Group Seminar, University of Pittsburgh, October 2019
 PITT PACC Group Seminar, University of Pittsburgh, March 2019
 
 
-## Conference and workshop talks
+## Conference and Workshop Talks
 1. *Chasing 2HDM via electroweak corrections at $e^+e^-$ colliders*  
 Parallel talk at Higgs 2026, UCLouvain, Belgium, October 2026
 1. *Precision Phenomenology at LFCs*  
