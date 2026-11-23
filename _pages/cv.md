@@ -85,15 +85,17 @@ Covers Electromagnetism, Elementary Quantum Mechanics, and Atomic Structure
 * Mentor one visiting undergraduate student, June 2019 - August 2019
 
 ### Institutional and Professional Service
-<!-- -->
-#### Institutional Service 
+
+**Institutional Service** 
 * Co-organizer, *CP3 Seminar Series*, UCLouvain, June 2025 - Present
 * Co-organizer, *Bologna HEP Theory Journal Club* October 2022 - December 2023  
   *jointly organized by INFN Bologna and the University of Bologna*
-#### Conference Service
+
+**Conference Service**
 * Session Convener, *ELectroweak Physics*, Pheno 2026, May 2026
 * Session Chair, *Axion I* and *BSM Physics II*, APS April Meeting 2022, April 2022
-#### Referee Service
+  
+**Referee Service**
 * Chinese Physics C (*CPC*) $\times 5$
 * Chinese Physics Letters (*Chin. Phys. Lett.*) $\times 1$
 * The European Physical Journal C (*EPJ C*) $\times 1$
